@@ -35,50 +35,6 @@ The objective is to showcase how raw business data can be transformed into meani
 
 ---
 
-# 📂 Repository Structure
-
-```text
-customer-shopping-behavior-analysis
-│
-├── 📁 data
-│   └── customer_shopping_behavior.csv
-│
-├── 📁 notebooks
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── 📁 sql
-│   ├── create_database.sql
-│   ├── customer_behavior_sql_queries.sql
-│   └── mysql_connection.py
-│
-├── 📁 powerbi
-│   ├── customer_behavior_dashboard.pbix
-│   └── customer_behavior_dashboard.pdf
-│
-├── 📁 images
-│   ├── dashboard.png
-│   ├── project_workflow.png
-│   └── dashboard_preview.png
-│
-├── 📁 docs
-│   └── Project_Report.pdf
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
-
----
-
-# 📊 Dashboard Preview
-
-<p align="center">
-<img src="images/dashboard.png" width="95%">
-</p>
-
----
-
 # 📈 Business Questions Solved
 
 - Which customers spend the most?
@@ -181,6 +137,7 @@ This project demonstrates how customer shopping data can be transformed into str
 **Mahesh Udoji**
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mahesh-udoji-034661313/
+# 📊 Dashboard Preview
 <img width="1132" height="636" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/5d5d9d1e-eeb4-4747-abe8-8660e0d8ce22" />
 
 

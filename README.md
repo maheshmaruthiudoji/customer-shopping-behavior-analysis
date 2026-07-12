@@ -10,14 +10,6 @@
 This project demonstrates a complete **industry-standard data analytics workflow**, covering data preparation, exploratory data analysis, database integration, SQL-based business analysis, and interactive dashboard development.
 
 The objective is to showcase how raw business data can be transformed into meaningful insights that support informed decision-making.
-
----
-
-## 🚀 Project Workflow
-
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5c45714f-c990-4bc2-b14b-0eff770bc543" />
-
-
 ---
 
 # 🛠️ Tech Stack
